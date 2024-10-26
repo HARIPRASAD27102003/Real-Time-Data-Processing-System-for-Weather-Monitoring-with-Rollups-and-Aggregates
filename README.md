@@ -43,6 +43,11 @@ This Weather Dashboard Application is a Django-based project that provides real-
    ```bash
    python manage.py migrate
 
+6. **Run Application**:
+
+   ```bash
+   python manage.py runserver
+
 ## API Endpoints
 
 ### 1. Home
